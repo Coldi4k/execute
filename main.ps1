@@ -1,1 +1,1 @@
-Stop-Computer -Force
+
